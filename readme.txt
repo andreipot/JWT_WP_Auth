@@ -1,15 +1,19 @@
 === JWT Authentication for WP REST API ===
 
-Contributors: tmeister
+Contributors: tmeister, Andrei Kraykov
 Donate link: https://enriquechavez.co
 Tags: wp-json, jwt, json web authentication, wp-api
 Requires at least: 4.2
-Tested up to: 4.3
+Tested up to: 4.4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extends the WP REST API using JSON Web Tokens Authentication as an authentication method.
+Fixes version 4.2 and make it compatible with 4.4+
+
+Credit
+Lenny's Studio
 
 == Description ==
 
